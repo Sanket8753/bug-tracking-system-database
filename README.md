@@ -1,4 +1,4 @@
-# Bug Tracking System - Database Design & Architecture
+# Bug Tracking System - Database Design & Architecture(2025 project under Prof.PmJat
 
 A robust database back-end architecture designed for a comprehensive Bug Tracking System. This project showcases structured database normalization, relational mapping, and implementation-ready SQL scripts designed to handle agile project lifecycles, user authentication roles, and problem-resolution workflows.
 
